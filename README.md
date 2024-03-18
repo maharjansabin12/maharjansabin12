@@ -1,6 +1,6 @@
 # Welcome to [Sabin Maharjan's](https://www.linkedin.com/in/sabin-maharjan-99a5a0171/) profile! <a ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-<h3 align="center">IT support specialist with passion for cyber security extends to bug bounty hunting and web pentesting</h3>
+<h3 align="center">IT support specialist with a passion for cyber security extends to bug bounty hunting and web pentesting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharjansabin12&label=Profile%20views&color=0e75b6&style=flat" alt="maharjansabin12" /> </p>
 
