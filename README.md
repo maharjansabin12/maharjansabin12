@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maharjansabin12/ADDS-setup](https://github.com/maharjansabin12/ADDS-setup)
 
-- 💬 Ask me about **TCP/IP**
 
 - 📫 How to reach me **maharjansabin12@gmail.com**
 
