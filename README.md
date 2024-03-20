@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharjansabin12&label=Profile%20views&color=0e75b6&style=flat" alt="maharjansabin12" /> </p>
 
-- 🔭 I’m currently working on [building website](maharjansabin12.com.np)
+- 🔭 I’m currently working on [portfolio](maharjansabin12.com.np)
 
 - 🌱 I’m currently learning **web pentesting, bug bounty.**
 
