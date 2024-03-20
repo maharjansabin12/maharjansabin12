@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [portfolio](maharjansabin12.com.np)
 
-- 🌱 I’m currently learning **web pentesting, bug bounty.**
+- 🌱 I’m currently learning **Cyber Security.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maharjansabin12/ADDS-setup](https://github.com/maharjansabin12/ADDS-setup)
 
