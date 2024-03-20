@@ -1,4 +1,4 @@
-# Welcome to [Sabin Maharjan's](https://www.linkedin.com/in/sabin-maharjan-99a5a0171/) profile! <a ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+I'm+Sabin+Maharjan!;" />
 </h1>
@@ -16,8 +16,6 @@
 
 
 - 📫 How to reach me **maharjansabin12@gmail.com**
-
-- Hobby **I love composing music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +43,5 @@
   </footer>
 
 </body>
-</html>
+</html> 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
