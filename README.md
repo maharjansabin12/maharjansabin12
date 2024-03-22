@@ -40,7 +40,7 @@
 
 
   <footer>
-    <p>&copy; 2023 Sabin Maharjan. All rights reserved.</p>
+    <p>&copy; 2024 Sabin Maharjan. All rights reserved.</p>
   </footer>
 
 </body>
