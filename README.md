@@ -8,14 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharjansabin12&label=Profile%20views&color=0e75b6&style=flat" alt="maharjansabin12" /> </p>
 
-- 🔭 I’m currently working on [portfolio](maharjansabin12.com.np)
+## Projects
+List of skills and associated projects
 
-- 🌱 I’m currently learning **Cyber Security.**
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Window server 2022 installation on <a href="https://portal.azure.com"/> azure cloud</a>| <a href="https://github.com/maharjansabin12/ADDS-setup">window server 2022</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-- 👨‍💻 All of my projects are available at [https://github.com/maharjansabin12/ADDS-setup](https://github.com/maharjansabin12/ADDS-setup)
 
 
-- 📫 How to reach me **maharjansabin12@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
