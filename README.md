@@ -18,7 +18,7 @@ List of skills and associated projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Window server 2022 installation on <a href="https://portal.azure.com"/> azure cloud</a>| <a href="https://github.com/maharjansabin12/ADDS-setup">window server 2022</a>|
+| Window server 2022 installation on <a href="https://portal.azure.com"/> azure cloud</a>| <a href="https://github.com/maharjansabin12/win-server2022-installation-AzureCloud.git">window server 2022</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
