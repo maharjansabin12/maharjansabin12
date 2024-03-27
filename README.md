@@ -2,10 +2,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+I'm+Sabin+Maharjan!;" />
 </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maharjansabin12&label=Profile%20views&color=0e75b6&style=flat" alt="maharjansabin12" /> </p>
 <h3 align="center">IT support specialist with a passion for cyber security extends to web pentesting</h3> 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maharjansabin12&label=Profile%20views&color=0e75b6&style=flat" alt="maharjansabin12" /> </p>
+
 
 
 
