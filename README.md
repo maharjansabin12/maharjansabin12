@@ -18,13 +18,9 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Window server 2019 installation on <a href="https://portal.azure.com"/> azure cloud</a>| <a href="https://github.com/maharjansabin12/win-server2022-installation-AzureCloud.git">window server 2022</a>|
-| Installing Active Directory Domain Services(AD DS) | <a href="https://github.com/maharjansabin12/Installing-Active-Directory-Domain-Service-ADDS-in-Window-Server-2019-on-Azure-Cloud.git">ADDS installation</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Window server 2019 installation on <a href="https://portal.azure.com"/> azure cloud</a>| <a href="https://github.com/maharjansabin12/win-server2022-installation-AzureCloud.git">Window Server 2022 Installation Lab</a>|
+| Installing Active Directory Domain Services(AD DS) | <a href="https://github.com/maharjansabin12/Installing-Active-Directory-Domain-Service-ADDS-in-Window-Server-2019-on-Azure-Cloud.git">ADDS installation Lab</a>|
+| Creating Organizational Units, Groups, and Users | <a href="https://github.com/maharjansabin12/Creating-Organizaional-Unit-Groups-and-Users-in-Active-Directory.git">Active Directory Lab</a>|
 
 
 
